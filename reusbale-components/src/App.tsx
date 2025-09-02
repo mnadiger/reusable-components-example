@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <h1>Hello Reusbale components</h1>
       <Button onClick={() => alert('Button clicked!')}>Click Me</Button>
     </>
   )
